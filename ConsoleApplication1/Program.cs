@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // comment 1
+
+            // feature1 changes
         }
     }
 }
